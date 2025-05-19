@@ -1,4 +1,4 @@
-public class SajatException extends RuntimeException {
+public class SajatException extends RuntimeException{
     public SajatException() {
     }
 
